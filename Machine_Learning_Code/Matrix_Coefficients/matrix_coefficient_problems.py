@@ -4,7 +4,7 @@
 # The second part of this program calculates the polynomial coefficients of an equation of which 5 points 
 # are known.
 
-# The last part of this program will attempt to approximate the solution of an over determined system.
+# The last part of this program will attempt to approximate the solution of an overdetermined system.
 
 import numpy as np
 import matplotlib.pyplot as plt
